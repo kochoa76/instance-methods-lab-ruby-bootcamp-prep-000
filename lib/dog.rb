@@ -1,8 +1,9 @@
 class Dog 
+  def bark()
+  puts "Woof!"
+end
 end
 
 fido = Dog.new
 
-def bark(fido)
-  puts "Woof!"
-end
+
