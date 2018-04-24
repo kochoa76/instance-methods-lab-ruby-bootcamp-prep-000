@@ -1,6 +1,6 @@
 class Dog 
 end
 
-def bark()
+def bark(fido)
   puts "Woof!"
 end
